@@ -1,0 +1,88 @@
+body {
+  padding-top: 5rem;
+}
+.navbar-section{
+  background-color: #3282b8;
+  color: #fff;
+  padding: -3rem 1rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+  margin-bottom: -50px;
+  margin-top: -30px;
+  
+}
+.second-row-home{
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.box-item{
+  margin-top: 1px;
+  margin-bottom: 30px;
+}
+.footer-section{
+  background-color: #3282b8;
+  color: #fff;
+  padding: 2em 1.5rem;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #000;
+  position: absolute;
+  border-radius: 15px;
+}
+
+.info-section{
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.seek-section{
+  margin-top:30px;
+  margin-bottom: 30px
+}
+
+.second-template{
+  padding: 3rem 1.5rem;
+  text-align: center;
+  margin-bottom: -50px;
+  margin-top: -70px;
+}
+
+.how-section{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  
+}
+
+.third-row-home{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.about-section{
+  padding: 3rem 1.5rem;
+  text-align: center;
+  margin-bottom: -50px;
+  margin-top: -50px;
+}
+
+.footer-link{
+  color: #fff;
+}
+
+.image-section{
+ padding: 3rem 1.5rem;
+}
+
+.contact-section{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.contact-link{
+  color: #000;
+}
